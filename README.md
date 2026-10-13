@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **8** | 0 | 8 | 0 | `2026-10-13` |
+| **9** | 0 | 9 | 0 | `2026-10-13` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (8)
+### DSA (9)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -22,8 +22,9 @@
 | 0004 | [375. Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [Solution-2](./DSA/Arrays/rearrange-array-elements-by-sign/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
 | 0005 | [255. Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-10-12` |
 | 0006 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
-| 0007 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [JAVA](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
-| 0008 | [1. Two Sum](./DSA/Arrays/two-sum) | [Solution-2](./DSA/Arrays/two-sum/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0007 | [34. Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [Solution-2](./DSA/Arrays/set-matrix-zeroes/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
+| 0008 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [JAVA](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0009 | [1. Two Sum](./DSA/Arrays/two-sum) | [Solution-2](./DSA/Arrays/two-sum/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
 
 ---
 
