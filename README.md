@@ -24,7 +24,7 @@
 | 0006 | [Pascals Triangle Iii](./DSA/Arrays/pascals-triangle-iii) | [JAVA](./DSA/Arrays/pascals-triangle-iii/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-14` |
 | 0007 | [Print The Matrix In Spiral Manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [Solution-2](./DSA/Arrays/print-the-matrix-in-spiral-manner/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-14` |
 | 0008 | [375. Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [Solution-2](./DSA/Arrays/rearrange-array-elements-by-sign/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
-| 0009 | [70. Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-14` |
+| 0009 | [70. Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) [Solution-2](./DSA/Arrays/rotate-matrix-by-90-degrees/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-14` |
 | 0010 | [255. Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-10-12` |
 | 0011 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
 | 0012 | [34. Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [Solution-2](./DSA/Arrays/set-matrix-zeroes/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
