@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **23** | 0 | 23 | 0 | `2026-10-20` |
+| **24** | 0 | 24 | 0 | `2026-10-20` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (23)
+### DSA (24)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -32,13 +32,14 @@
 | 0014 | [Print The Matrix In Spiral Manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [Solution-2](./DSA/Arrays/print-the-matrix-in-spiral-manner/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-14` |
 | 0015 | [375. Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [Solution-2](./DSA/Arrays/rearrange-array-elements-by-sign/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
 | 0016 | [70. Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [Solution-2](./DSA/Arrays/rotate-matrix-by-90-degrees/Solution-2.java) [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-14` |
-| 0017 | [255. Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-10-12` |
-| 0018 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
-| 0019 | [34. Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [Solution-2](./DSA/Arrays/set-matrix-zeroes/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
-| 0020 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [JAVA](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
-| 0021 | [Sort Characters By Frequency](./DSA/Arrays/sort-characters-by-frequency) | [JAVA](./DSA/Arrays/sort-characters-by-frequency/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-20` |
-| 0022 | [1. Two Sum](./DSA/Arrays/two-sum) | [Solution-2](./DSA/Arrays/two-sum/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
-| 0023 | [750. Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | ⚪ Unspecified | `General` | `2026-10-15` |
+| 0017 | [324. Rotate String](./DSA/Strings/rotate-string) | [Solution-2](./DSA/Strings/rotate-string/Solution-2.java) | ⚪ Unspecified | `Strings` | `2026-10-20` |
+| 0018 | [255. Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-10-12` |
+| 0019 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0020 | [34. Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [Solution-2](./DSA/Arrays/set-matrix-zeroes/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
+| 0021 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [JAVA](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0022 | [Sort Characters By Frequency](./DSA/Arrays/sort-characters-by-frequency) | [JAVA](./DSA/Arrays/sort-characters-by-frequency/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-20` |
+| 0023 | [1. Two Sum](./DSA/Arrays/two-sum) | [Solution-2](./DSA/Arrays/two-sum/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0024 | [750. Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | ⚪ Unspecified | `General` | `2026-10-15` |
 
 ---
 
