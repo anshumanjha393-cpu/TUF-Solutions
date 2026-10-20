@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **22** | 0 | 22 | 0 | `2026-10-20` |
+| **23** | 0 | 23 | 0 | `2026-10-20` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (22)
+### DSA (23)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -36,8 +36,9 @@
 | 0018 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
 | 0019 | [34. Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [Solution-2](./DSA/Arrays/set-matrix-zeroes/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
 | 0020 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [JAVA](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
-| 0021 | [1. Two Sum](./DSA/Arrays/two-sum) | [Solution-2](./DSA/Arrays/two-sum/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
-| 0022 | [750. Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | ⚪ Unspecified | `General` | `2026-10-15` |
+| 0021 | [Sort Characters By Frequency](./DSA/Arrays/sort-characters-by-frequency) | [JAVA](./DSA/Arrays/sort-characters-by-frequency/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-20` |
+| 0022 | [1. Two Sum](./DSA/Arrays/two-sum) | [Solution-2](./DSA/Arrays/two-sum/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0023 | [750. Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | ⚪ Unspecified | `General` | `2026-10-15` |
 
 ---
 
