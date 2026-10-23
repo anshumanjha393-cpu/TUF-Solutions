@@ -30,7 +30,7 @@
 | 0012 | [83. Majority Element-I](./DSA/General/majority-element-i) | [JAVA](./DSA/General/majority-element-i/solution.java) | ⚪ Unspecified | `General` | `2026-10-12` |
 | 0013 | [119. Majority Element-II](./DSA/General/majority-element-ii) | [JAVA](./DSA/General/majority-element-ii/solution.java) | ⚪ Unspecified | `General` | `2026-10-22` |
 | 0014 | [1020. Merge Sorting](./DSA/Arrays/merge-sorting) | [JAVA](./DSA/Arrays/merge-sorting/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-21` |
-| 0015 | [146. Merge two sorted arrays without extra space](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space) | [JAVA](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/solution.java) [Solution-3](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/Solution-3.java) | ⚪ Unspecified | `Arrays` | `2026-10-23` |
+| 0015 | [146. Merge two sorted arrays without extra space](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space) | [Solution-3](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/Solution-3.java) [JAVA](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/solution.java) [Solution-2](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-23` |
 | 0016 | [Next Permutation](./DSA/Recursion/next-permutation) | [JAVA](./DSA/Recursion/next-permutation/solution.java) | ⚪ Unspecified | `Recursion` | `2026-10-16` |
 | 0017 | [161. Pascal's Triangle I](./DSA/Arrays/pascals-triangle-i) | [JAVA](./DSA/Arrays/pascals-triangle-i/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
 | 0018 | [378. Pascal's Triangle II](./DSA/Arrays/pascals-triangle-ii) | [JAVA](./DSA/Arrays/pascals-triangle-ii/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-14` |
