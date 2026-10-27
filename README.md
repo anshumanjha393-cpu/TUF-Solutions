@@ -17,7 +17,7 @@
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [21. 3 Sum](./DSA/General/3-sum) | [Solution-2](./DSA/General/3-sum/Solution-2.java) [JAVA](./DSA/General/3-sum/solution.java) | ⚪ Unspecified | `General` | `2026-10-16` |
-| 0002 | [169. 4 Sum](./DSA/General/4-sum) | [JAVA](./DSA/General/4-sum/solution.java) | ⚪ Unspecified | `General` | `2026-10-27` |
+| 0002 | [169. 4 Sum](./DSA/General/4-sum) | [JAVA](./DSA/General/4-sum/solution.java) [Solution-2](./DSA/General/4-sum/Solution-2.java) | ⚪ Unspecified | `General` | `2026-10-27` |
 | 0003 | [467. Bubble Sort](./DSA/Arrays/bubble-sort) | [JAVA](./DSA/Arrays/bubble-sort/solution.java) | 🟡 Medium | `Arrays` | `2026-10-21` |
 | 0004 | [839. Count Occurrences in a Sorted Array](./DSA/Arrays/count-occurrences-in-a-sorted-array) | [JAVA](./DSA/Arrays/count-occurrences-in-a-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-22` |
 | 0005 | [265. Count subarrays with given sum](./DSA/Arrays/count-subarrays-with-given-sum) | [Solution-4](./DSA/Arrays/count-subarrays-with-given-sum/Solution-4.java) | ⚪ Unspecified | `Arrays` | `2026-10-27` |
