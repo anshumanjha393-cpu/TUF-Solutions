@@ -19,11 +19,11 @@
 | 0001 | [21. 3 Sum](./DSA/General/3-sum) | [Solution-2](./DSA/General/3-sum/Solution-2.java) [JAVA](./DSA/General/3-sum/solution.java) | ⚪ Unspecified | `General` | `2026-10-16` |
 | 0002 | [169. 4 Sum](./DSA/General/4-sum) | [Solution-2](./DSA/General/4-sum/Solution-2.java) [JAVA](./DSA/General/4-sum/solution.java) | ⚪ Unspecified | `General` | `2026-10-27` |
 | 0003 | [467. Bubble Sort](./DSA/Arrays/bubble-sort) | [JAVA](./DSA/Arrays/bubble-sort/solution.java) | 🟡 Medium | `Arrays` | `2026-10-21` |
-| 0004 | [839. Count Occurrences in a Sorted Array](./DSA/Arrays/count-occurrences-in-a-sorted-array) | [JAVA](./DSA/Arrays/count-occurrences-in-a-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-22` |
+| 0004 | [839. Count Occurrences in a Sorted Array](./DSA/Arrays/count-occurrences-in-a-sorted-array) | [JAVA](./DSA/Arrays/count-occurrences-in-a-sorted-array/solution.java) [Solution-2](./DSA/Arrays/count-occurrences-in-a-sorted-array/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-28` |
 | 0005 | [265. Count subarrays with given sum](./DSA/Arrays/count-subarrays-with-given-sum) | [Solution-4](./DSA/Arrays/count-subarrays-with-given-sum/Solution-4.java) | ⚪ Unspecified | `Arrays` | `2026-10-27` |
 | 0006 | [22. Detect a loop in LL](./DSA/Linked-List/detect-a-loop-in-ll) | [JAVA](./DSA/Linked-List/detect-a-loop-in-ll/solution.java) | ⚪ Unspecified | `Linked-List` | `2026-10-12` |
 | 0007 | [138. Find the repeating and missing number](./DSA/General/find-the-repeating-and-missing-number) | [Solution-2](./DSA/General/find-the-repeating-and-missing-number/Solution-2.java) [JAVA](./DSA/General/find-the-repeating-and-missing-number/solution.java) | ⚪ Unspecified | `General` | `2026-10-23` |
-| 0008 | [279. First and last occurrence](./DSA/General/first-and-last-occurrence) | [Solution-3](./DSA/General/first-and-last-occurrence/Solution-3.java) [Solution-1](./DSA/General/first-and-last-occurrence/Solution-1.java) | ⚪ Unspecified | `General` | `2026-10-28` |
+| 0008 | [279. First and last occurrence](./DSA/General/first-and-last-occurrence) | [Solution-3](./DSA/General/first-and-last-occurrence/Solution-3.java) | ⚪ Unspecified | `General` | `2026-10-28` |
 | 0009 | [899. Floor and Ceil in Sorted Array](./DSA/Arrays/floor-and-ceil-in-sorted-array) | [JAVA](./DSA/Arrays/floor-and-ceil-in-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-15` |
 | 0010 | [32. Inorder Traversal](./DSA/Trees/inorder-traversal) | [JAVA](./DSA/Trees/inorder-traversal/solution.java) | ⚪ Unspecified | `Trees` | `2026-10-26` |
 | 0011 | [252. Isomorphic Strings](./DSA/Strings/isomorphic-string) | [JAVA](./DSA/Strings/isomorphic-string/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-19` |
