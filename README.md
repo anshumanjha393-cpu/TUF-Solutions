@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **50** | 0 | 50 | 0 | `2026-10-30` |
+| **51** | 0 | 51 | 0 | `2026-10-31` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (50)
+### DSA (51)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -64,8 +64,9 @@
 | 0046 | [224. Single element in sorted array](./DSA/Arrays/single-element-in-sorted-array) | [Solution-1](./DSA/Arrays/single-element-in-sorted-array/Solution-1.java) [Solution-4](./DSA/Arrays/single-element-in-sorted-array/Solution-4.java) | ⚪ Unspecified | `Arrays` | `2026-10-29` |
 | 0047 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [JAVA](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
 | 0048 | [Sort Characters By Frequency](./DSA/Arrays/sort-characters-by-frequency) | [JAVA](./DSA/Arrays/sort-characters-by-frequency/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-20` |
-| 0049 | [1. Two Sum](./DSA/Arrays/two-sum) | [Solution-2](./DSA/Arrays/two-sum/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
-| 0050 | [750. Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | ⚪ Unspecified | `General` | `2026-10-15` |
+| 0049 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [Solution-2](./DSA/Arrays/sum-of-array-elements/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-31` |
+| 0050 | [1. Two Sum](./DSA/Arrays/two-sum) | [Solution-2](./DSA/Arrays/two-sum/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0051 | [750. Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | ⚪ Unspecified | `General` | `2026-10-15` |
 
 ---
 
