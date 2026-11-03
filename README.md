@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **56** | 0 | 56 | 0 | `2026-11-02` |
+| **57** | 0 | 57 | 0 | `2026-11-03` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (56)
+### DSA (57)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -72,6 +72,7 @@
 | 0054 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [Solution-2](./DSA/Arrays/sum-of-array-elements/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-31` |
 | 0055 | [1. Two Sum](./DSA/Arrays/two-sum) | [Solution-2](./DSA/Arrays/two-sum/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
 | 0056 | [750. Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | ⚪ Unspecified | `General` | `2026-10-15` |
+| 0057 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | ⚪ Unspecified | `Strings` | `2026-11-03` |
 
 ---
 
