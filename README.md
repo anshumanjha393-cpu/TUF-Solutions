@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **60** | 0 | 60 | 0 | `2026-11-05` |
+| **61** | 0 | 61 | 0 | `2026-11-06` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (60)
+### DSA (61)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -68,14 +68,15 @@
 | 0050 | [46. Search in rotated sorted array-I](./DSA/Arrays/search-in-rotated-sorted-array-i) | [Solution-3](./DSA/Arrays/search-in-rotated-sorted-array-i/Solution-3.java) [JAVA](./DSA/Arrays/search-in-rotated-sorted-array-i/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-28` |
 | 0051 | [255. Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-10-12` |
 | 0052 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
-| 0053 | [34. Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [Solution-2](./DSA/Arrays/set-matrix-zeroes/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
-| 0054 | [224. Single element in sorted array](./DSA/Arrays/single-element-in-sorted-array) | [Solution-1](./DSA/Arrays/single-element-in-sorted-array/Solution-1.java) [Solution-4](./DSA/Arrays/single-element-in-sorted-array/Solution-4.java) | ⚪ Unspecified | `Arrays` | `2026-10-29` |
-| 0055 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [JAVA](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
-| 0056 | [Sort Characters By Frequency](./DSA/Arrays/sort-characters-by-frequency) | [JAVA](./DSA/Arrays/sort-characters-by-frequency/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-20` |
-| 0057 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [Solution-2](./DSA/Arrays/sum-of-array-elements/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-31` |
-| 0058 | [1. Two Sum](./DSA/Arrays/two-sum) | [Solution-2](./DSA/Arrays/two-sum/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
-| 0059 | [750. Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | ⚪ Unspecified | `General` | `2026-10-15` |
-| 0060 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | ⚪ Unspecified | `Strings` | `2026-11-03` |
+| 0053 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [Solution-3](./DSA/General/second-highest-occurring-element/Solution-3.java) | ⚪ Unspecified | `General` | `2026-11-06` |
+| 0054 | [34. Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [Solution-2](./DSA/Arrays/set-matrix-zeroes/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
+| 0055 | [224. Single element in sorted array](./DSA/Arrays/single-element-in-sorted-array) | [Solution-1](./DSA/Arrays/single-element-in-sorted-array/Solution-1.java) [Solution-4](./DSA/Arrays/single-element-in-sorted-array/Solution-4.java) | ⚪ Unspecified | `Arrays` | `2026-10-29` |
+| 0056 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [JAVA](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0057 | [Sort Characters By Frequency](./DSA/Arrays/sort-characters-by-frequency) | [JAVA](./DSA/Arrays/sort-characters-by-frequency/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-20` |
+| 0058 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [Solution-2](./DSA/Arrays/sum-of-array-elements/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-31` |
+| 0059 | [1. Two Sum](./DSA/Arrays/two-sum) | [Solution-2](./DSA/Arrays/two-sum/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0060 | [750. Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | ⚪ Unspecified | `General` | `2026-10-15` |
+| 0061 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | ⚪ Unspecified | `Strings` | `2026-11-03` |
 
 ---
 
