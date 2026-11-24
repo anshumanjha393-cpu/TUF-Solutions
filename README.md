@@ -43,7 +43,7 @@
 | 0025 | [252. Isomorphic Strings](./DSA/Strings/isomorphic-string) | [JAVA](./DSA/Strings/isomorphic-string/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-19` |
 | 0026 | [12. Kadane's Algorithm](./DSA/General/kadane's-algorithm) | [JAVA](./DSA/General/kadane's-algorithm/solution.java) | ⚪ Unspecified | `General` | `2026-10-13` |
 | 0027 | [91. Koko eating bananas](./DSA/General/koko-eating-bananas) | [Solution-3](./DSA/General/koko-eating-bananas/Solution-3.java) | ⚪ Unspecified | `General` | `2026-11-22` |
-| 0028 | [367. Kth Missing Positive Number](./DSA/General/kth-missing-positive-number) | [JAVA](./DSA/General/kth-missing-positive-number/solution.java) | ⚪ Unspecified | `General` | `2026-11-24` |
+| 0028 | [367. Kth Missing Positive Number](./DSA/General/kth-missing-positive-number) | [JAVA](./DSA/General/kth-missing-positive-number/solution.java) [Solution-3](./DSA/General/kth-missing-positive-number/Solution-3.java) | ⚪ Unspecified | `General` | `2026-11-24` |
 | 0029 | [341. Largest Odd Number in a String](./DSA/Strings/largest-odd-number-in-a-string) | [Solution-2](./DSA/Strings/largest-odd-number-in-a-string/Solution-2.java) | ⚪ Unspecified | `Strings` | `2026-10-19` |
 | 0030 | [792. LCM of two numbers](./DSA/General/lcm-of-two-numbers) | [Solution-2](./DSA/General/lcm-of-two-numbers/Solution-2.java) | ⚪ Unspecified | `General` | `2026-11-19` |
 | 0031 | [Longest Common Prefix](./DSA/General/longest-common-prefix) | [Solution-3](./DSA/General/longest-common-prefix/Solution-3.java) | ⚪ Unspecified | `General` | `2026-10-20` |
