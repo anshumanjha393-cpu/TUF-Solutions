@@ -18,7 +18,7 @@
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [21. 3 Sum](./DSA/General/3-sum) | [Solution-2](./DSA/General/3-sum/Solution-2.java) [JAVA](./DSA/General/3-sum/solution.java) | ⚪ Unspecified | `General` | `2026-10-16` |
 | 0002 | [169. 4 Sum](./DSA/General/4-sum) | [Solution-2](./DSA/General/4-sum/Solution-2.java) [JAVA](./DSA/General/4-sum/solution.java) | ⚪ Unspecified | `General` | `2026-10-27` |
-| 0003 | [139. Aggressive Cows](./DSA/General/aggressive-cows) | [Solution-2](./DSA/General/aggressive-cows/Solution-2.java) | ⚪ Unspecified | `General` | `2026-11-25` |
+| 0003 | [139. Aggressive Cows](./DSA/General/aggressive-cows) | [Solution-2](./DSA/General/aggressive-cows/Solution-2.java) [pjb](./DSA/General/aggressive-cows/pjb.java) | ⚪ Unspecified | `General` | `2026-11-25` |
 | 0004 | [467. Bubble Sort](./DSA/Arrays/bubble-sort) | [JAVA](./DSA/Arrays/bubble-sort/solution.java) | 🟡 Medium | `Arrays` | `2026-10-21` |
 | 0005 | [297. Capacity to Ship Packages Within D Days](./DSA/General/capacity-to-ship-packages-within-d-days) | [Solution-2](./DSA/General/capacity-to-ship-packages-within-d-days/Solution-2.java) | ⚪ Unspecified | `General` | `2026-11-24` |
 | 0006 | [937. Check if the Number is Armstrong](./DSA/General/check-if-the-number-if-armstrong) | [Solution-3](./DSA/General/check-if-the-number-if-armstrong/Solution-3.java) | ⚪ Unspecified | `General` | `2026-11-20` |
