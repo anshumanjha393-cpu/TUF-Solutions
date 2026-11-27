@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **77** | 0 | 77 | 0 | `2026-11-26` |
+| **78** | 0 | 78 | 0 | `2026-11-27` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (77)
+### DSA (78)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -80,19 +80,20 @@
 | 0062 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [Solution-2](./DSA/Arrays/reverse-an-array/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-11-01` |
 | 0063 | [70. Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [Solution-2](./DSA/Arrays/rotate-matrix-by-90-degrees/Solution-2.java) [JAVA](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-14` |
 | 0064 | [324. Rotate String](./DSA/Strings/rotate-string) | [Solution-2](./DSA/Strings/rotate-string/Solution-2.java) | ⚪ Unspecified | `Strings` | `2026-10-20` |
-| 0065 | [112. Search in rotated sorted array-II](./DSA/Arrays/search-in-rotated-sorted-array-2) | [Solution-2](./DSA/Arrays/search-in-rotated-sorted-array-2/Solution-2.java) [JAVA](./DSA/Arrays/search-in-rotated-sorted-array-2/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-28` |
-| 0066 | [46. Search in rotated sorted array-I](./DSA/Arrays/search-in-rotated-sorted-array-i) | [Solution-3](./DSA/Arrays/search-in-rotated-sorted-array-i/Solution-3.java) [JAVA](./DSA/Arrays/search-in-rotated-sorted-array-i/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-28` |
-| 0067 | [255. Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-10-12` |
-| 0068 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
-| 0069 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [Solution-3](./DSA/General/second-highest-occurring-element/Solution-3.java) | ⚪ Unspecified | `General` | `2026-11-06` |
-| 0070 | [34. Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [Solution-2](./DSA/Arrays/set-matrix-zeroes/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
-| 0071 | [224. Single element in sorted array](./DSA/Arrays/single-element-in-sorted-array) | [Solution-1](./DSA/Arrays/single-element-in-sorted-array/Solution-1.java) [Solution-4](./DSA/Arrays/single-element-in-sorted-array/Solution-4.java) | ⚪ Unspecified | `Arrays` | `2026-10-29` |
-| 0072 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [JAVA](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
-| 0073 | [Sort Characters By Frequency](./DSA/Arrays/sort-characters-by-frequency) | [JAVA](./DSA/Arrays/sort-characters-by-frequency/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-20` |
-| 0074 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [Solution-2](./DSA/Arrays/sum-of-array-elements/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-31` |
-| 0075 | [1. Two Sum](./DSA/Arrays/two-sum) | [Solution-2](./DSA/Arrays/two-sum/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
-| 0076 | [750. Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | ⚪ Unspecified | `General` | `2026-10-15` |
-| 0077 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | ⚪ Unspecified | `Strings` | `2026-11-03` |
+| 0065 | [77. Search in a 2D Matrix](./DSA/Arrays/search-in-a-2d-matrix) | [JAVA](./DSA/Arrays/search-in-a-2d-matrix/solution.java) | ⚪ Unspecified | `Arrays` | `2026-11-27` |
+| 0066 | [112. Search in rotated sorted array-II](./DSA/Arrays/search-in-rotated-sorted-array-2) | [Solution-2](./DSA/Arrays/search-in-rotated-sorted-array-2/Solution-2.java) [JAVA](./DSA/Arrays/search-in-rotated-sorted-array-2/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-28` |
+| 0067 | [46. Search in rotated sorted array-I](./DSA/Arrays/search-in-rotated-sorted-array-i) | [Solution-3](./DSA/Arrays/search-in-rotated-sorted-array-i/Solution-3.java) [JAVA](./DSA/Arrays/search-in-rotated-sorted-array-i/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-28` |
+| 0068 | [255. Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | ⚪ Unspecified | `Binary-Search` | `2026-10-12` |
+| 0069 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0070 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [Solution-3](./DSA/General/second-highest-occurring-element/Solution-3.java) | ⚪ Unspecified | `General` | `2026-11-06` |
+| 0071 | [34. Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [Solution-2](./DSA/Arrays/set-matrix-zeroes/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-13` |
+| 0072 | [224. Single element in sorted array](./DSA/Arrays/single-element-in-sorted-array) | [Solution-1](./DSA/Arrays/single-element-in-sorted-array/Solution-1.java) [Solution-4](./DSA/Arrays/single-element-in-sorted-array/Solution-4.java) | ⚪ Unspecified | `Arrays` | `2026-10-29` |
+| 0073 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [JAVA](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0074 | [Sort Characters By Frequency](./DSA/Arrays/sort-characters-by-frequency) | [JAVA](./DSA/Arrays/sort-characters-by-frequency/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-20` |
+| 0075 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [Solution-2](./DSA/Arrays/sum-of-array-elements/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-31` |
+| 0076 | [1. Two Sum](./DSA/Arrays/two-sum) | [Solution-2](./DSA/Arrays/two-sum/Solution-2.java) | ⚪ Unspecified | `Arrays` | `2026-10-12` |
+| 0077 | [750. Upper Bound](./DSA/General/upper-bound) | [JAVA](./DSA/General/upper-bound/solution.java) | ⚪ Unspecified | `General` | `2026-10-15` |
+| 0078 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | ⚪ Unspecified | `Strings` | `2026-11-03` |
 
 ---
 
